@@ -1,2 +1,3 @@
 ## Hi!!!! I am Shalika Upamada  
-IT student at SLIIT
+
+4th year Undergratuate at SLIIT
