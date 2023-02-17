@@ -4,4 +4,4 @@
 
 BSc(Hons) in Information Technology
 
-Trainee Software Enginee
+Trainee Software Engineer
