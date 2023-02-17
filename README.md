@@ -3,3 +3,5 @@
 4th year Undergratuate at SLIIT
 
 BSc(Hons) in Information Technology
+
+Trainee Software Enginee
