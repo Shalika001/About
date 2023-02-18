@@ -1,7 +1,7 @@
 ## Hi!!!! I am Shalika Upamada  
 
-4th year Undergratuate at SLIIT
+  4th year Undergratuate at SLIIT
 
-BSc(Hons) in Information Technology
+  BSc(Hons) in Information Technology
 
-Trainee Software Engineer
+  Trainee Software Engineer
