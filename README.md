@@ -6,4 +6,4 @@
 
   Trainee Software Engineer.
   
-  I have 6th month expireance at Sri Lanka Ports Authority 
+  I have 6th month expireance at Sri Lanka Ports Authority (Intership)
