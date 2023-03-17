@@ -53,5 +53,5 @@
 
 
 ![Shalika's Github Status](https://github-readme-stats.vercel.app/api?username=Shalika001&show_icons=true&theme=radical&card_width=100) [![Shalika's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalika001&layout=compact&theme=radical&card_width=250)](https://github.com/Shalika001/github-readme-stats)
-[![Shalika's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/maneeshalakshani/github-readme-stats)-
+<!-- [![Shalika's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/maneeshalakshani/github-readme-stats)- -->
 
