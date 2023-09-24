@@ -1,5 +1,4 @@
-## Hi there 👋
-  I am **Shalika Upamada**
+## Hi there 👋 I am **Shalika Upamada**
 
 #### I am a 4th year undergraduate at SLIIT (Sri Lanka Institute of Information and Technology)
 ### Software Engineer | Flutter developer
